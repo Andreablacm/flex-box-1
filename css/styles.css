@@ -135,4 +135,7 @@ body {
   .avatar-name:hover {
     color: aqua;
   }
+  .image-container::before:hover {
+    opacity: 100%;
+  }
 } 
